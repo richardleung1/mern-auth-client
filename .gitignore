@@ -18,6 +18,9 @@
 .env.test.local
 .env.production.local
 .env
+/src/utils/credentials.js
+
+.eslintcache
 
 npm-debug.log*
 yarn-debug.log*
